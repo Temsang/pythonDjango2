@@ -52,8 +52,15 @@
 #wap to take length and breath of your house and calculate area of rectangle
 length = input("enter length of your house")
 breath = input("enter breath of your house")
-area = ("length*breath")
+length = int(length)
+breath = int(breath)
+area = length*breath
 print("area of rect is ",area)
+
+
+#wap to cp,sp and calculate profit and loss 
+#wap to take user input number and print that number is odd or even 
+#wap t
 
 
 
